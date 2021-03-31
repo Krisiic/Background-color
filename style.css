@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+#button {
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    box-shadow: none;
+    border: none;
+    background-color: gray;
+}
+
+#button:hover {
+    background-color: white;
+}
+
+.container {
+    margin-top: 20%;
+}
